@@ -1,8 +1,7 @@
 pandas
-gunicorn
 matplotlib==3.4.3
 json5==0.9.6
-shap
+time
 pickle-mixin==1.0.2
 plotly==5.1.0
 Pillow==8.3.1
